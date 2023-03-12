@@ -11,7 +11,7 @@
 
 <br>
 
-<h4 align="center"> Projeto Finalizado </h4>
+<h4 align="center"> Projeto Parcialmente Finalizado </h4>
 
 # Feature
 
