@@ -41,7 +41,7 @@ $ git clone <https://github.com/eduardobrandao/projetoReactJs>
 
 #### Podemos dar um desses comandos abaixo, para instalar as dependencias
 
-$ yarn install  
+$ yarn add  
 $ npm install
 
 ---
